@@ -1,0 +1,3 @@
+line 1 mkdir learngit
+line 2 cd learngit
+line 3 git init
