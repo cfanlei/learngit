@@ -1,3 +1,4 @@
 line 1 mkdir learngit
 line 2 cd learngit
 line 3 git init
+line 4 git is a free software
